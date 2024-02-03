@@ -4,9 +4,7 @@
 #
 # Author:      DELL PC
 #
-# Created:     02-12-2023
-# Copyright:   (c) DELL PC 2023
-# Licence:     <your licence>
+# Created:     02-02-2024
 #------------------------------------------------------------------------------
 # pip installed
 # import remove & esaygui & Image
